@@ -9,13 +9,13 @@
 
 <h1 align="center">Welcome, :sunny:aim High:sunny:, :bomb:do Best:bomb:, :heart:good Results:heart:!</h1>
 
-<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="kaiDev0601" /> </p>
+<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="SuperDev0601" /> </p>
 
 <p align="center">
-  <a href="https://github.com/kaiDev0601/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kaiDev0601" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiDev0601&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/SuperDev0601/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SuperDev0601" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperDev0601&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiDev0601&count_private=true&include_all_commits=true&show_icons=true&theme=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuperDev0601&count_private=true&include_all_commits=true&show_icons=true&theme=compact" />
 </p>
 
 
