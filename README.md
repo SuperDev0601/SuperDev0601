@@ -6,19 +6,37 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
-
-<h1 align="center">Welcome, :sunny:aim High:sunny:, :bomb:do Best:bomb:, :heart:good Results:heart:!</h1>
-
-<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="SuperDev0601" /> </p>
-
 <p align="center">
-  <a href="https://github.com/SuperDev0601/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SuperDev0601" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperDev0601&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperDev0601&count_private=true&include_all_commits=true&show_icons=true&theme=compact" />
+  <a href="https://github.com/Super-Smile"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Super+Smile;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
 
+<p align="center">
+  <a href="https://github.com/Super-Smile/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Super-Smile" src="https://github-readme-streak-stats.herokuapp.com/?user=Super-Smile&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Super-Smile/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=Super-Smile's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+    />
+   </a>
+
+  <a href="https://github.com/Super-Smile/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&theme=vision-friendly-dark" />
+  </a>  
+</p>
+<h3 align="left">Touch me anytime, I am Open</h3>
+
+  <p>Email: supersmile1207@gmail.com</p> 
+  <p>Telegram: <a href="https://t.me/zuper_powerr" target="_blank"> @zuper_powerr </a> </p>
+  <p>Skype: live:.cid.a32f7872d1ccef38</p>
+  <p>Discord: Super-Smile#3538</p> </br>
 <canvas id="canvas3d" class="fixed z-0 w-full h-full outline-none cursor-move t-0 l-0" data-v-86952c76="" width="1365" height="937" touch-action="none" style="touch-action: none; opacity: 1;" tabindex="1"></canvas>    
 <h3 align="left">Languages and Tools:</h3>
 
@@ -68,3 +86,6 @@
  <span>...</span>
 </p>
 <br/>
+
+
+
